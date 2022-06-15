@@ -18,3 +18,9 @@ nav ul {
 .slider{
     color: aqua;
 }
+nav{
+    background: purple;
+}
+nav a{
+    color: white;
+}
